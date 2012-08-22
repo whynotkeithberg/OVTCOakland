@@ -13,3 +13,9 @@
 [Wed Aug 22 01:06:39 2012] [error] [client 199.27.128.216] File does not exist: /var/www/ovcto.org/http/wp-content/themes/swatch/images/bg-widget.png, referer: http://ovtco.org/
 [Wed Aug 22 01:06:40 2012] [error] [client 199.27.128.214] File does not exist: /var/www/ovcto.org/http/favicon.ico
 [Wed Aug 22 01:07:00 2012] [error] [client 199.27.128.214] File does not exist: /var/www/ovcto.org/http/favicon.ico
+[Wed Aug 22 01:59:12 2012] [error] [client 199.27.128.214] File does not exist: /var/www/ovcto.org/http/favicon.ico
+[Wed Aug 22 02:08:04 2012] [error] [client 199.27.128.216] File does not exist: /var/www/ovcto.org/http/wp-content/themes/swatch/images/bg-widget.png, referer: http://ovtco.org/
+[Wed Aug 22 02:08:04 2012] [error] [client 199.27.128.214] File does not exist: /var/www/ovcto.org/http/favicon.ico
+[Wed Aug 22 02:10:31 2012] [error] [client 199.27.128.214] File does not exist: /var/www/ovcto.org/http/favicon.ico
+[Wed Aug 22 02:11:48 2012] [error] [client 199.27.128.214] File does not exist: /var/www/ovcto.org/http/favicon.ico
+[Wed Aug 22 02:13:19 2012] [error] [client 199.27.128.214] File does not exist: /var/www/ovcto.org/http/favicon.ico
